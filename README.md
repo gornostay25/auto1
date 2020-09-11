@@ -1,4 +1,4 @@
-# AUTO1 Login by sesion
+# AUTO1 Login by session
 
 ### Добавте цю URL адресу до закладок
 ```
